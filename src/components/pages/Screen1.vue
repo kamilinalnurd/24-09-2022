@@ -79,7 +79,7 @@
               id="b5deec5c-e673-46be-8457-b567dc860fa1"
               v-bind:style="{'color':'#ffffff','width':'','height':'','zIndex':14,'fontSize':'30px','maxWidth':'','minWidth':'','fontStyle':'normal','marginTop':'0px','maxHeight':'','minHeight':'','textAlign':'left','fontFamily':'Roboto-Regular,Roboto','fontWeight':'normal','lineHeight':'1.4','marginLeft':'0px','paddingTop':'0px','textShadow':'','visibility':'visible','marginRight':'0px','paddingLeft':'0px','marginBottom':'0px','paddingRight':'0px','paddingBottom':'0px','textDecoration':'none'}"/>
           </NucGroupElement>
-          <WLabel top="28.32112387862253%" left="10.898224590180858%" text="COMING SOON" v-bind:snapX="false"
+          <WLabel top="28.32112387862253%" left="10.898224590180858%" text="BAŞARACAĞIZ" v-bind:snapX="false"
             v-bind:snapY="false" theme="theme--light01" position="absolute" ncTypography="custom" ncTooltipText=""
             v-bind:nucalDataModel="{'type':'NSW','isList':false,'dynamic':false,'structure':[{'type':'string','propName':'text','displayName':'Value'}]}"
             id="596c84cc-cf27-4e47-904c-05bd40fe037a"
