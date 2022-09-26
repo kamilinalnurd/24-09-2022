@@ -25,12 +25,12 @@
         <NucGroupElement top="12.684461805555555%" left="31.5625%" v-bind:snapX="false" v-bind:snapY="false" bgColor=""
           position="absolute" borderWidth="0px" ncTooltipText="" id="37dac1b2-a1ad-48e3-b819-ce98a32d68aa"
           v-bind:style="{'color':'#FFFFFF','width':'836px','height':'607px','zIndex':5,'fontSize':'15px','maxWidth':'','minWidth':'10','tabIndex':'-1','boxShadow':'','fontStyle':'normal','marginTop':'0px','maxHeight':'','minHeight':'10','textAlign':'center','background':'','fontFamily':'Roboto-Regular,Roboto','fontWeight':'normal','lineHeight':'1.25','marginLeft':'0px','paddingTop':'','textShadow':'','visibility':'visible','borderColor':'#767676','borderStyle':'solid','marginRight':'0px','paddingLeft':'','marginBottom':'0px','paddingRight':'','paddingBottom':'','borderTopWidth':'0px','textDecoration':'none','borderLeftWidth':'0px','borderRightWidth':'0px','borderBottomWidth':'0px','borderTopLeftRadius':'0px','borderTopRightRadius':'0px','borderBottomLeftRadius':'0px','borderBottomRightRadius':'0px'}">
-          <WLabel top="28.32112387862253%" left="10.898224590180858%" text="BAŞARACAĞIZ" v-bind:snapX="false"
+          <WLabel top="26.029654036243823%" left="16.86602870813397%" text="BAŞARACAĞIZ" v-bind:snapX="false"
             v-bind:snapY="false" theme="theme--light01" position="absolute" ncTypography="custom" ncTooltipText=""
             v-bind:nucalDataModel="{'type':'NSW','isList':false,'dynamic':false,'structure':[{'type':'string','propName':'text','displayName':'Value'}]}"
             id="596c84cc-cf27-4e47-904c-05bd40fe037a"
-            v-bind:style="{'color':'#09cee1','width':'561px','height':'80px','zIndex':8,'fontSize':'80px','maxWidth':'','minWidth':'','fontStyle':'','marginTop':'0px','maxHeight':'','minHeight':'','textAlign':'left','fontFamily':'Roboto-Regular,Roboto','fontWeight':'bold','lineHeight':'1','marginLeft':'0px','paddingTop':'0px','textShadow':'','visibility':'visible','marginRight':'0px','paddingLeft':'0px','marginBottom':'0px','paddingRight':'0px','paddingBottom':'0px','textDecoration':''}"/>
-          <WLabel top="9.060955518945635%" left="35.4066985645933%" text="TEAM COMODO" v-bind:snapX="false"
+            v-bind:style="{'color':'#09cee1','width':'551px','height':'80px','zIndex':8,'fontSize':'80px','maxWidth':'','minWidth':'','fontStyle':'','marginTop':'0px','maxHeight':'','minHeight':'','textAlign':'left','fontFamily':'Roboto-Regular,Roboto','fontWeight':'bold','lineHeight':'1','marginLeft':'0px','paddingTop':'0px','textShadow':'','visibility':'visible','marginRight':'0px','paddingLeft':'0px','marginBottom':'0px','paddingRight':'0px','paddingBottom':'0px','textDecoration':''}"/>
+          <WLabel top="9.060955518945635%" left="35.4066985645933%" text="TEAM COMODO 2" v-bind:snapX="false"
             v-bind:snapY="false" theme="theme--light01" position="absolute" ncTypography="custom" ncTooltipText=""
             v-bind:nucalDataModel="{'type':'NSW','isList':false,'dynamic':false,'structure':[{'type':'string','propName':'text','displayName':'Value'}]}"
             id="ffd71ef7-7c07-450d-9d1a-2aa69c04f5b7"
@@ -51,12 +51,12 @@
             id="f4cd63e6-812e-4da3-b116-b0070599111f"
             v-bind:style="{'color':'#ffffff','width':'308px','height':'47px','zIndex':11,'fontSize':'30px','maxWidth':'','minWidth':'','fontStyle':'normal','marginTop':'0px','maxHeight':'','minHeight':'','textAlign':'left','fontFamily':'Roboto-Regular,Roboto','fontWeight':'normal','lineHeight':'1.4','marginLeft':'0px','paddingTop':'0px','textShadow':'','visibility':'visible','marginRight':'0px','paddingLeft':'0px','marginBottom':'0px','paddingRight':'0px','paddingBottom':'0px','textDecoration':'none'}"/>
         </NucGroupElement>
-        <WEmbed src="https://thumbs.gfycat.com/FakeSevereIchthyosaurs-max-1mb.gif" tag="div" type="embed" aspect="16by9"
-          v-bind:controls="true"
+        <WEmbed src="https://thumbs.gfycat.com/FakeSevereIchthyosaurs-max-1mb.gif" tag="div" top="49.81336805555556%"
+          left="34.744466145833336%" type="embed" v-bind:snapX="false" v-bind:snapY="false" aspect="16by9"
+          v-bind:controls="true" position="absolute"
           v-bind:nucalDataModel="{'type':'NSW','isList':false,'dynamic':false,'structure':[{'type':'string','propName':'src','displayName':'Source'}]}"
-          v-bind:allowFullScreen="true" position="absolute" top="49.81336805555556%" left="34.744466145833336%"
-          v-bind:snapX="false" v-bind:snapY="false" id="164456a8-59a2-4a9c-8d42-f7ccd709dcc9"
-          v-bind:style="{'width':'612px','height':'350px','maxWidth':'','minWidth':'','tabIndex':'0px','marginTop':'0px','maxHeight':'','minHeight':'','marginLeft':'0px','paddingTop':'0px','visibility':'visible','marginRight':'0px','paddingLeft':'0px','marginBottom':'0px','paddingRight':'0px','paddingBottom':'0px','zIndex':6}"/>
+          v-bind:allowFullScreen="true" id="164456a8-59a2-4a9c-8d42-f7ccd709dcc9"
+          v-bind:style="{'width':'612px','height':'350px','zIndex':6,'maxWidth':'','minWidth':'','tabIndex':'0px','marginTop':'0px','maxHeight':'','minHeight':'','marginLeft':'0px','paddingTop':'0px','visibility':'visible','marginRight':'0px','paddingLeft':'0px','marginBottom':'0px','paddingRight':'0px','paddingBottom':'0px'}"/>
       </NucGroupElement>
     </NucGridCell>
   </NucGridPage>
